@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="mensajeError1">Datos Inválidos</string>
+    <string name="Bienvenido">Bienvenido</string>}
+    <string name="Ingresar">Ingresar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Operaciones">Operaciones</string>
+    <string name="dato1">Número 1</string>
+    <string name="dato2">Número 2</string>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="menucal">Calculadora</string>
+    <string name="menuartistas">Artistas Favoritos</string>
+    <string name="boton1">1</string>
+    <string name="boton2">2</string>
+    <string name="boton3">3</string>
+    <string name="boton4">4</string>
+    <string name="boton5">5</string>
+    <string name="boton6">6</string>
+    <string name="boton7">7</string>
+    <string name="boton8">8</string>
+    <string name="boton9">9</string>
+    <string name="boton0">0</string>
+    <string name="botonmas">+</string>
+    <string name="botonmenos">-</string>
+    <string name="botonpor">*</string>
+    <string name="botondiv">/</string>
+    <string name="botonigual">=</string>
+    <string name="botonsqrt">SQRT</string>
+    <string name="botoninv">1/x</string>
+    <string name="botonc">C</string>
+</resources>
